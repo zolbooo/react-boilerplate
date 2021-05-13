@@ -18,7 +18,7 @@
     "react-dom": "17.0.2"
   },
   "devDependencies": {
-    "@nicepack/eslint-ts": "^2.0.1",
+    "@nicepack/eslint-ts": "^2.1.0",
     "@types/node": "^15.0.3",
     "@types/react": "^17.0.5",
     "eslint": "^7.26.0",
