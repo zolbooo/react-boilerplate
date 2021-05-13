@@ -18,8 +18,11 @@
     "react-dom": "17.0.2"
   },
   "devDependencies": {
+    "@nicepack/eslint-ts": "^2.0.1",
     "@types/node": "^15.0.3",
     "@types/react": "^17.0.5",
+    "eslint": "^7.26.0",
+    "prettier": "^2.3.0",
     "typescript": "^4.2.4"
   }
 }
